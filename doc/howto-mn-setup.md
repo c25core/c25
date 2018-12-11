@@ -2,6 +2,7 @@
 							C25 HOWTO setup masternode
 							
 Here is some info about setup MN for those who could not do it yourself.
+
 	1) You must have a VPS with public IP address (You can run Ubuntu 16.04, 18.04 or another linux).
 	2) You must create a new address for masternode in your control wallet and send 2500 C25 to it. Wait for 6 confirmations.
 	3) Go to `Debug console` in menu and run `masternode genkey`. Save output data. It is your C25MNPrivateKey.
