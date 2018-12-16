@@ -45,7 +45,7 @@ Here is some info about setup MN for those who could not do it yourself.
 	>C25MNtxid is transaction id of 2500 C25 transaction,<br/>
 	>C25MNcoi is collateral output index of your 2500 C25 transaction.<br/>
 
-7. Restart your control wallet and goto `Debug console`. 
-	Run `masternode start-all`. 
+7. Restart your control wallet and goto `Debug console`.<br/> 
+	Run `masternode start-all`.<br/>
 	You will see something like that : `"overall": "Successfully started 1 masternodes, failed to start 0, total 1"`.
 8. Congratulations. Your masternode successfully starts and will receive rewards shortly.
